@@ -1,0 +1,6 @@
+===== RESULTADOS DE NAVEGACIÓN =====
+Tiempo total     : 90.11 s
+Distancia aprox. : 267.64 unidades
+Colisiones       : 0
+Meta alcanzada   : No
+Estado final     : Finalizado correctamente
